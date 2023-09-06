@@ -1,5 +1,0 @@
-{{#user}}
-Name: Sunny Tomar
-Skills: HTML, CSS, JS, React.js, Node.js, MongoDb, Express
-Email: sunnytomar3786@gmail.com
-{{/user}}
